@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lời chúc 20/10 cho Yến</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f9f9f9;
+        }
+        h1 {
+            color: #d63384;
+        }
+        p {
+            font-size: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Chúc Yến 20/10 vui vẻ!</h1>
+    <p>Chúc bạn Móm có một ngày thật nhiều niềm vui, hạnh phúc!</p>
+    <img src="https://linktoflowerimage.com/flower.jpg" alt="Bông hoa chúc mừng" style="width: 300px;"/>
+</body>
+</html>
